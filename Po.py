@@ -107,7 +107,7 @@ def banne():
 def mn():
     wel = '# MENU CRACK'
     wel2 = mark(wel, style='yellow')
-	print(wel2)
+	print(
 			"""
 	   1.) Crack from friends list ]
 	   2.) Crack from followers list ]
